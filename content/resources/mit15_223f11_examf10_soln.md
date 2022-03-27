@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 6490fb6b-aa14-5cbb-a107-c5995078ab52
 resourcetype: Document
 title: MIT15_223F11_examf10_soln.pdf
 uid: c58765f1-3dc3-a9af-a90e-d225e7b303de
