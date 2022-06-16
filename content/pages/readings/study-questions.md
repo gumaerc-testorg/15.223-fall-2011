@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides study questions for each course topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

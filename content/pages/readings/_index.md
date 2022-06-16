@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the readings and cases for the course, organized
+  by topic.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -187,7 +189,7 @@ The rise of emerging markets—reaching where?
 {{< tdopen >}}
 
 
-Subramanian, Arvind. "A Brief History of Economic Dominance." Chapter 1 in _Eclipse: Living in the Shadow of China's Economic Dominance_. Peterson Institute for International Economics, 2011, pp. 85–93. ISBN: 9780881326062. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1MB](http://www.piie.com/publications/chapters_preview/6062/iie6062.pdf))
+Subramanian, Arvind. "A Brief History of Economic Dominance." Chapter 1 in _Eclipse: Living in the Shadow of China's Economic Dominance_. Peterson Institute for International Economics, 2011, pp. 85–93. ISBN: 9780881326062. ([PDF - 1MB](http://www.piie.com/publications/chapters_preview/6062/iie6062.pdf))
 
 
 {{< tdclose >}}
