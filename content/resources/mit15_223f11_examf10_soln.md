@@ -5,6 +5,7 @@ file: /courses/15-223-global-markets-national-politics-and-the-competitive-advan
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT15_223F11_examf10_soln.pdf
 uid: c58765f1-3dc3-a9af-a90e-d225e7b303de
 ---
 This resource contains information regarding exams.
-
