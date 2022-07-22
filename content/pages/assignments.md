@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains requirements for the case write-up assignments
+  of the course, and a list of assigned cases.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: b3de3526-6bfe-6e89-fccd-ea7e3a2b5b52
 ---

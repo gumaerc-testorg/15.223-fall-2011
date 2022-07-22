@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes from each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 1ea52b59-b481-fd49-6d3a-dcc1fb6eb598
 ---
@@ -34,7 +39,7 @@ LECTURE NOTES
 Whatever next for the world economy?
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec01))
+({{% resource_link 770605fb-6a67-2035-5cbc-4d43c54a1134 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Whatever next for the world economy?
 Freer markets, more rules? Rethinking regulation in our global economy
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec02))
+({{% resource_link ccfd0cc0-1f6d-69e5-a1ac-fb0880f6a1b3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Freer markets, more rules? Rethinking regulation in our global economy
 Liberal market economies—The United States
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec03))
+({{% resource_link d51c96c3-8395-44e8-2cb6-aac5c200b11a "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +81,7 @@ Liberal market economies—The United States
 State-driven development—Singapore
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec04))
+({{% resource_link 573d0caa-c66d-6774-53a5-ee5e641525e4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ State-driven development—Singapore
 Emerging markets/uncertain rules—Africa
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec05))
+({{% resource_link 42dde998-a774-f6b3-a80d-f34fe59708b9 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +111,7 @@ Emerging markets/uncertain rules—Africa
 The politics of trade
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec06))
+({{% resource_link d0621ebc-3e37-9ba7-4d84-ca93b7330d54 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +123,7 @@ The politics of trade
 Intellectual property protection
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec07))
+({{% resource_link c2ce2889-2ce7-4262-b3c3-9a978c738f49 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -142,7 +147,7 @@ The rise of emerging markets—reaching where?
 Global business and human rights
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec09))
+({{% resource_link 48210f93-fdcf-a823-054e-7d1820c65856 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -154,7 +159,7 @@ Global business and human rights
 Non-government organizations (NGOs) and private non-market action
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec10))
+({{% resource_link afaef8c1-0a98-0ead-dbcd-94cf36eab810 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Non-government organizations (NGOs) and private non-market action
 Rebuilding the global economic system
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit15_223f11_lec11))
+({{% resource_link d324936c-2a15-062a-04f6-198041df5b89 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

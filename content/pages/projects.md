@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: "This section provides information on a group project on the business\
+  \ environment in one country as it is likely to look after the 2008\u20132009 global\
+  \ crisis"
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: de30ea0b-ec04-67f4-342e-729e8e6671ca
 ---
