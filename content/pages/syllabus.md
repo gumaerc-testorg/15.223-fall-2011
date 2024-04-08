@@ -29,7 +29,7 @@ This course is part two of a two part course series, and should be preceded by [
 Readings
 --------
 
-Readings include a combination of analytic articles and company case studies drawn from a variety of different industries (manufacturing and services) in Europe, Latin America, Asia and Africa. You should also keep track of daily updates regarding the global economy on [The Baseline Scenario](http://baselinescenario.com); not all posts are equally relevant for this course, so use your judgment regarding how to spend your time.
+Readings include a combination of analytic articles and company case studies drawn from a variety of different industries (manufacturing and services) in Europe, Latin America, Asia and Africa. You should also keep track of daily updates regarding the global economy on {{% resource_link "61e6a226-a5ca-42f0-9581-03d32976b394" "The Baseline Scenario" %}}; not all posts are equally relevant for this course, so use your judgment regarding how to spend your time.
 
 Grading
 -------
