@@ -32,7 +32,7 @@ CASES
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Vietor, Richard H. K., and Emily J. Thompson. "{{% resource_link "84aab82a-5382-407c-9a54-5fb873898582" "Singapore Inc." %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-040, August 11, 2003.
+Vietor, Richard H. K., and Emily J. Thompson. "[Singapore Inc.](http://hbr.org/product/singapore-inc/an/703040-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-040, August 11, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,9 +43,9 @@ Vietor, Richard H. K., and Emily J. Thompson. "{{% resource_link "84aab82a-5382-
 {{< tdopen >}}
 
 
-Huang, Yasheng. "{{% resource_link "0731fded-61a2-43de-b69a-81266b1e5401" "Note on Conflict Diamonds: Why Are Civil Wars, Like Diamonds, Forever?" %}}" Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-027, January 09, 2002.
+Huang, Yasheng. "[Note on Conflict Diamonds: Why Are Civil Wars, Like Diamonds, Forever?](http://hbr.org/product/note-on-conflict-diamonds-why-are-civil-wars-like-/an/702027-PDF-ENG)" Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-027, January 09, 2002.
 
-Alfaro, Laura, Vinati Dev, et el. "{{% resource_link "120c9cef-1c4f-447c-bbd9-176a57d271ba" "Botswana: A Diamond in The Rough" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-027, March 31, 2003.
+Alfaro, Laura, Vinati Dev, et el. "[Botswana: A Diamond in The Rough](http://hbr.org/product/botswana-a-diamond-in-the-rough/an/703027-PDF-ENG?Ntt=Botswana%253A%2520A%2520Diamond%2520in%2520The%2520Rough)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-027, March 31, 2003.
 
 
 {{< tdclose >}}
@@ -56,7 +56,7 @@ Alfaro, Laura, Vinati Dev, et el. "{{% resource_link "120c9cef-1c4f-447c-bbd9-17
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Abdelal, Rawi, Laura Alfaro, et al. "{{% resource_link "c1e47f01-2fe7-4919-83ff-8f1008b48db6" "Bombardier: Canada vs. Brazil at The WTO" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-022, February 20, 2003.
+Abdelal, Rawi, Laura Alfaro, et al. "[Bombardier: Canada vs. Brazil at The WTO](http://hbr.org/product/bombardier-canada-vs-brazil-at-the-wto/an/703022-HCB-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-703-022, February 20, 2003.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +65,7 @@ Abdelal, Rawi, Laura Alfaro, et al. "{{% resource_link "c1e47f01-2fe7-4919-83ff-
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Bartlett, Nicholas, and Debora L. Spar. "{{% resource_link "4f1c36ec-07fd-4ae5-917f-f86f8e2333d5" "Life, Death, and Property Rights: The Pharmaceutical Industry Faces AIDS in Africa" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-049, June 13, 2002.
+Bartlett, Nicholas, and Debora L. Spar. "[Life, Death, and Property Rights: The Pharmaceutical Industry Faces AIDS in Africa](http://hbr.org/product/life-death-and-property-rights-the-pharmaceutical-/an/702049-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-702-049, June 13, 2002.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +74,7 @@ Bartlett, Nicholas, and Debora L. Spar. "{{% resource_link "4f1c36ec-07fd-4ae5-9
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Mure, Lane La, and Debora L. Spar. "{{% resource_link "8c14ed5f-9a38-4339-87ec-54f497b0f01f" "The Burma Pipeline" %}}." Harvard Business School Case. Harvard Business School Publishing. Case: 9-798-078, February 25, 1998.
+Mure, Lane La, and Debora L. Spar. "[The Burma Pipeline](http://hbr.org/product/burma-pipeline/an/798078-PDF-ENG)." Harvard Business School Case. Harvard Business School Publishing. Case: 9-798-078, February 25, 1998.
 {{< tdclose >}}
 
 {{< trclose >}}
